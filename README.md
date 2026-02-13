@@ -4,7 +4,7 @@ I am a **Data Scientist(still an apprentice...)** passionate about **Programming
 
 - 🔭 I'm currently working on: **My bachelor degree project using K-Means and Facebook Prophet for unsupervised/supervised AQI classification**
 - 👯 Looking for collaborations on: **Machine Learning projects applied to Energy/Healthcare/Banking-Finance**
-- 💬 Ask me about: **.NET, Python, Pandas, Time Series, Econometrics, Statistics**
+- 💬 Ask me about: **.NET, Python, Pandas, Econometrics, Statistics, Time Series**
 - 📫 How to reach me: **georgesculeonard95@gmail.com**
 
 ---

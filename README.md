@@ -13,6 +13,7 @@ I am a **Data Scientist(still an apprentice...)** passionate about **Programming
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/SAS-0079C1?style=for-the-badge&logoColor=white" alt="sas"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/>
@@ -23,6 +24,7 @@ I am a **Data Scientist(still an apprentice...)** passionate about **Programming
 <p align="left"> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="plsql"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
 </p>
@@ -52,7 +54,7 @@ I am a **Data Scientist(still an apprentice...)** passionate about **Programming
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardGeorgescuGl&show_icons=true&theme=radical&hide_border=true" alt="Leonard's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardGeorgescuGL&show_icons=true&theme=radical&hide_border=true" alt="Leonard's Github Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardGeorgescuGL&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>

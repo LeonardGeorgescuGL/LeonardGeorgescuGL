@@ -33,6 +33,7 @@ I am a **Data Scientist & Automation Enthusiast** passionate about **Programming
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
   
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit"/>
 
@@ -54,10 +55,10 @@ I am a **Data Scientist & Automation Enthusiast** passionate about **Programming
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardGeorgescuGL&show_icons=true&theme=radical&hide_border=true" alt="Leonard's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardGeorgescuGL&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardGeorgescuGL&theme=radical" alt="GitHub Details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LeonardGeorgescuGL&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardGeorgescuGL&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LeonardGeorgescuGL&theme=radical" alt="Top Languages" />
 </p>

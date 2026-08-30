@@ -1,6 +1,6 @@
 ### Hi,there! I am Leonard 👋
 
-I am a **Data Scientist(still an apprentice...)** passionate about **Programming/Health&Energy Analytics/FINTech/Machine Learning**. I love turning raw data into profitable strategies and automating everything I can.
+I am a **Data Scientist & Automation Enthusiast** passionate about **Programming/Health&Energy Analytics/FINTech/Machine Learning**. I love turning raw data into profitable strategies and automating everything I can.
 
 - 🔭 I'm currently working on: **My bachelor degree project using K-Means and Facebook Prophet for unsupervised/supervised AQI classification**
 - 👯 Looking for collaborations on: **Machine Learning projects applied to Energy/Healthcare/Banking-Finance**

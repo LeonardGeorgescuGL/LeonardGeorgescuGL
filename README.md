@@ -54,11 +54,10 @@ I am a **Data Scientist & Automation Enthusiast** passionate about **Programming
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardGeorgescuGL&show_icons=true&theme=radical&hide_border=true" alt="Leonard's Github Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardGeorgescuGL&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardGeorgescuGL&show_icons=true&theme=radical&hide_border=true" alt="Leonard's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardGeorgescuGL&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardGeorgescuGL&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LeonardGeorgescuGL&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>

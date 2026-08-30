@@ -62,3 +62,7 @@ I am a **Data Scientist & Automation Enthusiast** passionate about **Programming
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardGeorgescuGL&theme=radical" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LeonardGeorgescuGL&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LeonardGeorgescuGL&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
